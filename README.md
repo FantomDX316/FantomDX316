@@ -4,6 +4,8 @@
 
 - 🔭 I’m passionate about Front and Backend Development
 - 💬 Lets talk Programming
-- 📫 How to reach me : - [<img src="img/linkedin.svg" />]
+- 📫 How to reach me : - [<img src="img/linkedin.svg" />][website]
+
+[website]: "https://www.linkedin.com/in/saksham-kothari-927568216/"
 
   

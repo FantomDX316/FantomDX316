@@ -50,7 +50,7 @@
    
    
    [linkedin]:https://www.linkedin.com/in/saksham-kothari-927568216/
-   [twitter]:https://twitter.com/FreakoWeeb
+   [twitter]:https://twitter.com/sakshamyash
    [instagram]:https://www.instagram.com/sakshamyash/
    [c]:https://www.cprogramming.com/
    [cpp]:https://isocpp.org/

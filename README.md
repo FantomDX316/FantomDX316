@@ -4,6 +4,6 @@
 
 - 🔭 I’m passionate about Front and Backend Development
 - 💬 Lets talk Programming
-- 📫 How to reach me : - 
+- 📫 How to reach me : - [<img src="img/linkedin.svg" />]
 
   

@@ -1,6 +1,6 @@
 # Hi there, I'm Saksham 👋
 
-###  - 🔭 I’m passionate about FrontEnd and BackEnd Development
+###  - 🔭 I’m passionate about Frontend and Backend Development
 ###  - 🍛 This place holds different recipes and I am one of the many Chef cooking it for you
 ###  - 👯 I’m looking to collaborate with other content creators
 ###  - ⚡ Fun Fact -- I love to play PC Games

@@ -22,6 +22,8 @@
    
    [<img align="left" width="30px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>][css]
    
+   [<img align="left" width="30px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />][sass]
+   
    [<img align="left" width="30px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>][js]
    
    [<img align="left" width="30px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>][bootstrap]
@@ -40,7 +42,7 @@
    
    [<img align="left" width="30px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>][github]
    
-   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />][sass]
+   
    <br/><br/>
    <hr/>
    

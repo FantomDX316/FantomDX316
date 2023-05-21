@@ -40,6 +40,7 @@
    
    [<img align="left" width="30px" style="padding-right:18px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>][github]
    
+   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />][sass]
    <br/><br/>
    <hr/>
    
@@ -69,6 +70,7 @@
    [redux]:https://redux.js.org/
    [git]:https://git-scm.com/doc
    [github]:https://github.com/FantomDX316
+   [sass]:https://sass-lang.com/
 
  
    

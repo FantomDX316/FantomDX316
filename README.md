@@ -1,4 +1,4 @@
-# Hi there, I'm Saksham (MERN Stack Developer)👋
+# Hi there, I'm Saksham (Full Stack Developer)👋
 
 ###  - 🔭 I’m passionate about Frontend and Backend Development
 ###  - 🍛 This place holds different recipes and I am one of the many Chef cooking it for you
